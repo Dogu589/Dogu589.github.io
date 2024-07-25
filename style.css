@@ -43,7 +43,7 @@ html, body {
     pointer-events: none;
     height: 110%;
     width: 100%;
-    background-image: url(stuff/CRTno.gif);
+    background-image: url(stuf/CRTno.gif);
     background-repeat: repeat;
     filter: brightness(0);
     opacity: 0.5;
