@@ -276,9 +276,8 @@ const dia = {
             return;
         }
     ]],
-    aac: [['The girl hated the world', "That's what killed her, Hate", 'The bullies loved to spread Hate', 'You are spreading hate too', 'You are one of them'],
-        'Hate is vague', "No I'm not", '', '', 2,
-        'aaca', 'p1', '', '',
+    aac: [['Python, JavaScript, SQL', "C ve C++, PHP, Ruby", 'işaretleme dilleri olarak', 'Html,Css'],
+     
     // pAACA,pAACB,'','',
     [3], [
         function () {
