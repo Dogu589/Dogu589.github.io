@@ -218,7 +218,7 @@ const dia = {
     }
     ]],
     a: ['Ben Doğukan 17 yaşındayım ve yaklaşık 4 yıldır siber güvenlik ve hackingle ilgileniyorum',
-        'Interesting', 'No', '', '', 2,
+        'Nelerle ilgileniyorsun', 'Hangi programlama dillerini biliyorsun', '', '', 2,
         'aa', 'ab', '', ''],
     b: [['A representation, of thoughts numbed of emotion', 'I am a form of depression', 'My identity is less important than yours', 'You can affect things around you, but I am a static subject', 'A collection of concrete ideas, with no malleability', 'I am interested to see what YOU can glean from me'],
         'So what is your story about?', 'How can I learn anything from YOU?', '', '', 2,
