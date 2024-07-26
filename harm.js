@@ -327,7 +327,7 @@ const dia = {
 }
 
 var tracker = [["Hello, I have a story I'd like to talk about", "Benim hakkımda ne bilmek istersin?"],
-    'About what?', 'Who are you?', '', '', 2,
+    'Sen Kimsin?', 'Siber Hayatını Özetlermisin?', '', '', 2,
     'a', 'b', '', ''];
 
 function randn_bm() {
