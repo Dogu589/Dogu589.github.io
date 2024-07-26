@@ -223,7 +223,7 @@ const dia = {
     b: [['Web site hackleme işi hep ilgimi çekti ve birçok web sitesini hackledim', 'Ülkeme yapılan bütün siber saldırılara elimden geldiğince yanıt vermeye çalıştım', 'Uzun bir süre CTF konularıyla ilgilendim'],
         'CTF lerde hangi alanlara hakimsin?', 'CTF başarılarından bahsedermisin?', '', '', 2,
         'a', 'bb', '', ''],
-    bb: [['The way you learn most everything you know', 'A simple conversation'],
+    bb: [['Birçok CTF turnuvasında dereceye girdim', 'Teknofest Hackmasters 17.lik', 'Kapsül Hackme CTF 1.lik', 'Siber Yıldız 45.lik', 'Teknopark İstanbul MTAL CTF 14.lük', 'THM Aylık Dünya 5.liği'],
         "Ok, what's the story about?", "No thanks", '', '', 2,
         'a', 'ab', '', ''],
     ab: [["Hmm... Well if you're looking for some enterainment", "You should check out this site"],
