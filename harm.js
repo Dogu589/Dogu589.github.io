@@ -234,7 +234,7 @@ const dia = {
                 return;
             }, 2000);
         }]],
-    aa: [['A young girl is bullied relentlessly for two years', 'She has no friends', 'Her father is constantly occupied with work', 'Her mother is too self-absorbed to listen to her cries for help', 'Inevitably she commits suicide', 'who do you think is responsible for her death?'],
+    aa: [['Tabii.. şu anda aktif olarak yürüttüğüm iki projem var', 'ilki Kızıl Pençe Tim', 'ikincisi Zeroday Market', 'Kızıl Pençe Tim, Türkiyenin siber gücü olmaya odaklanmış bir gruptur', 'Ekip içinde zaman zaman operasyonlar düzenlenir', 'Zeroday Market ise Global çaplı bir 0day pazarıdır'],
         'Her parents', 'The bullies', 'The girl', 'NO ONE', 4,
         'aaa', 'aab', 'aac', 'aad'],
     aaa: [['Someone could live a completely happy life and still commit suicide', 'She suffered from depression', "but don't worry there's definintely hope for you", "Everything in the modern world can be fixed, even you", "Your pain and suffering can go away", "Don't give up on life there's hope, even for you", "Always look on the brightside", "she was a fat pig filled with hate and made everyone's life worse", "The bullies could learn from this"],
