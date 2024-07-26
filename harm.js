@@ -218,7 +218,7 @@ const dia = {
     }
     ]],
     a: ['Ben Doğukan 17 yaşındayım ve yaklaşık 4 yıldır siber güvenlik ve hackingle ilgileniyorum',
-        'Projelerinden bahseder misin', 'Bildiğin programlama dilleri?', '', '', 2,
+        'Projelerinden bahseder misin', 'Web sitelerine bakabilirmiyim?', '', '', 2,
         'aa', 'ab', '', ''],
     b: [['Web site hackleme işi hep ilgimi çekti ve birçok web sitesini hackledim', 'Ülkeme yapılan bütün siber saldırılara elimden geldiğince yanıt vermeye çalıştım', 'Uzun bir süre CTF konularıyla ilgilendim'],
         'Memnun oldum', 'CTF başarılarından bahsedermisin?', '', '', 2,
