@@ -238,7 +238,7 @@ const dia = {
         'Kızıl Pençe Timi Detaylı Anlat', 'Zeroday Marketi Detaylı Anlat', 'Bildiğin programlama dilleri neler', 'Nasıl İletişime Geçebilirim', 4,
         'aaa', 'aab', 'aac', 'aad'],
     aaa: [['Kızıl Pençe Tim Forumumuza Ulaşmak İçin Şu Urlyi Ziyaret Edebilirsiniz', "kizilpence.com"],
-        "They won't", 'I feel for the girl', "You DON'T blame her parents?", 'Why do you bring this up?', 4,
+   
         // pAAAA,pAAAB,pAAAC,pAAAD,
         'p1', 'p1', 'p1', 'p1', [7], [
         function () {
