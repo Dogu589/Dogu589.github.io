@@ -238,7 +238,9 @@ const dia = {
         'Kızıl Pençe Timi Detaylı Anlat', 'Zeroday Marketi Detaylı Anlat', 'Bildiğin programlama dilleri neler', 'Nasıl İletişime Geçebilirim', 4,
         'aaa', 'aab', 'aac', 'aad'],
     aaa: [['Kızıl Pençe Tim Forumumuza Ulaşmak İçin Şu Urlyi Ziyaret Edebilirsiniz', "kizilpence.com"],
-          
+        "They won't", 'I feel for the girl', "You DON'T blame her parents?", 'Why do you bring this up?', 4,
+        // pAAAA,pAAAB,pAAAC,pAAAD,
+        'p1', 'p1', 'p1', 'p1', [7], [
         function () {
             setTimeout(function () {
                 document.getElementById("dialogueBox").style.fontSize = "20px";
@@ -275,8 +277,9 @@ const dia = {
             return;
         }
     ]],
-    aac: [['Python, JavaScript, SQL', "C ve C++, PHP, Ruby", 'işaretleme dilleri olarak', 'Html,Css'],
-     
+    aac: [['The girl hated the world', "That's what killed her, Hate", 'The bullies loved to spread Hate', 'You are spreading hate too', 'You are one of them'],
+        'Hate is vague', "No I'm not", '', '', 2,
+        'aaca', 'p1', '', '',
     // pAACA,pAACB,'','',
     [3], [
         function () {
