@@ -297,7 +297,7 @@ const dia = {
     aacab: [['Stories are powerful tools', 'Tools that captivate our minds', 'We take stories for granted', 'We assume they have existed since the start of time', 'But really they are new', 'And not only that, they arenâ€™t living', 'breathing', 'alive', 'or dead', 'They barely exist', 'They are close to a form of entity though', 'They wrangle dreams', 'feelings', 'people', 'armies and nations', 'They are a tool for birth and death', 'Look at me, I am a story', 'The interesting part is that you are a story too', 'and so is the girl who died at her own hands', 'What do stories make you think of?'],
         'Drama', 'History', 'Ghosts', 'Propaganda', 4,
         'p1', 'p1', 'p1', 'p1'],
-    aad: [['As in... there is no one to blame?', 'Or do you think society as a whole is to blame?'],
+    aad: [['Kişisel Telegram: @dogu589', 'Global Telegram: @cyber589'],
     'NO ONE', "Society", '', '', 2,
     'p1', 'aadb', '', '',
     // pAADA,pAADB,'','',
