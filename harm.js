@@ -252,7 +252,7 @@ const dia = {
             }, 500);
             return;
         }]],
-    aab: [['They must be filled with hate, to bully someone to the point of suicide', 'They only care about themselves', 'They have no compassion', 'Their culture spreads hate and self-centered views', "Let's hope to never be like them", "Let's spread love", "Except towards them, Hate them", 'We can be great together'],
+    aab: [['ZerodayMarket 2023 yılından beri yürütmüş olduğum bir proje', 'İlk olarak sadece Türkiyeye özel olarak açıldı ve Exploit Market ismini aldı', 'Daha sonraları 2024 başı olmalı', 'Bu projeyi globale açmaya karar verdim', "Ve adını Zeroday Market olarak değiştirdim", "0day exploitlerine ve çeşitli yazılımlara odaklanıyor", "Kayıtlarımız Kontrollü", 'Telegramdan bana yazarak hesabınızı onaylatabilirsiniz'],
         'Bad apples ruin the bunch', 'What should happen to the bullies?', '', '', 2,
         'p1', 'aabb', '', '',
     [4, 5, 6], [
