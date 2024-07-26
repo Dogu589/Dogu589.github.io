@@ -235,8 +235,8 @@ const dia = {
             }, 2000);
         }]],
     aa: [['Tabii.. şu anda aktif olarak yürüttüğüm iki projem var', 'ilki Kızıl Pençe Tim', 'ikincisi Zeroday Market', 'Kızıl Pençe Tim, Türkiyenin siber gücü olmaya odaklanmış bir gruptur', 'Ekip içinde zaman zaman operasyonlar düzenlenir', 'Zeroday Market ise Global çaplı bir 0day pazarıdır'],
-        'Her parents', 'The bullies', 'The girl', 'NO ONE', 4,
-        'aaa', 'aab', 'aac', 'aad'],
+        'Kızıl Pençe Timi Detaylı Anlat', 'Zeroday Marketi Deaylı Anlat', 2,
+        'aaa', 'aab'],
     aaa: [['Someone could live a completely happy life and still commit suicide', 'She suffered from depression', "but don't worry there's definintely hope for you", "Everything in the modern world can be fixed, even you", "Your pain and suffering can go away", "Don't give up on life there's hope, even for you", "Always look on the brightside", "she was a fat pig filled with hate and made everyone's life worse", "The bullies could learn from this"],
         "They won't", 'I feel for the girl', "You DON'T blame her parents?", 'Why do you bring this up?', 4,
         // pAAAA,pAAAB,pAAAC,pAAAD,
