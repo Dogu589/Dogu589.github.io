@@ -278,7 +278,7 @@ const dia = {
         }
     ]],
     aac: [['Python, JavaScript, SQL', "C ve C++, PHP, Ruby", 'İşaretleme dili olarakda', 'Html ve Css'],
-        'Hate is vague', "No I'm not", '', '', 2,
+        
         'aaca', 'p1', '', '',
     // pAACA,pAACB,'','',
     [3], [
