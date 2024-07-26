@@ -224,7 +224,7 @@ const dia = {
         'CTF lerde hangi alanlara hakimsin?', 'CTF başarılarından bahsedermisin?', '', '', 2,
         'a', 'bb', '', ''],
     bb: [['Birçok CTF turnuvasında dereceye girdim', 'Teknofest Hackmasters 17.lik', 'Kapsül Hackme CTF 1.lik', 'Siber Yıldız 45.lik', 'Teknopark İstanbul MTAL CTF 14.lük', 'THM Aylık Dünya 5.liği'],
-        "Ok, what's the story about?", "No thanks", '', '', 2,
+        "Memnun oldum", "CTF lerde hangi alanlara hakimsin", '', '', 2,
         'a', 'ab', '', ''],
     ab: [["Hmm... Well if you're looking for some enterainment", "You should check out this site"],
         '', '', '', '', 2, '', '', '', '', [1], [
