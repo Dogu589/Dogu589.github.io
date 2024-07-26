@@ -294,8 +294,11 @@ const dia = {
     aacab: [['Stories are powerful tools', 'Tools that captivate our minds', 'We take stories for granted', 'We assume they have existed since the start of time', 'But really they are new', 'And not only that, they arenâ€™t living', 'breathing', 'alive', 'or dead', 'They barely exist', 'They are close to a form of entity though', 'They wrangle dreams', 'feelings', 'people', 'armies and nations', 'They are a tool for birth and death', 'Look at me, I am a story', 'The interesting part is that you are a story too', 'and so is the girl who died at her own hands', 'What do stories make you think of?'],
         'Drama', 'History', 'Ghosts', 'Propaganda', 4,
         'p1', 'p1', 'p1', 'p1'],
-    aad: [['Telegram:@dogu589', 'TelegramV2:@cyber589'],
-    
+    aad: [['As in... there is no one to blame?', 'Or do you think society as a whole is to blame?'],
+    'NO ONE', "Society", '', '', 2,
+    'p1', 'aadb', '', '',
+    // pAADA,pAADB,'','',
+    ],
     aadb: [["Society is interesting and disturbing thing", "It is a power that has surpassed the people who made it", "It eats peoplesâ€™ souls up for the purpose of sustaining itself", "People who idealize society wield it as a source of power", "So that they can walk over others and fulfill their greed", "...", "Itâ€™s easy to criticize society though", "â€˜I could never be the problemâ€™", "â€˜It has to be THEMâ€™", "Society is made up of individuals", "Even if it has a parasitic relationship with those individuals", "And your relationship with society isnâ€™t a one-way road either", "Youâ€™re entire being is shaped by it", "Even in the case of the girl, her death was caused by it", "Because she was given something from society", "A cancer", "A cancer of the mind", "And like a cancer it spreads", "Everywhere you look at this point, there is cancer there", "It's hard to imagine a time where cancer didn't consume the world", "Everyone in mass is being affected by it"],
     'Cancer?', "What's the solution?", "", "", 2,
     'aadba', 'aadbb', '', ''
