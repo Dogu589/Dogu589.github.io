@@ -279,7 +279,7 @@ const dia = {
     ]],
     aac: [['Python, JavaScript, SQL', "C ve C++, PHP, Ruby", 'İşaretleme dili olarakda', 'Html ve Css'],
         
-        'aaca', 'p1', '', '',
+        '', '', '', '',
     // pAACA,pAACB,'','',
     [3], [
         function () {
