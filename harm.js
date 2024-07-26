@@ -238,8 +238,7 @@ const dia = {
         'Kızıl Pençe Timi Detaylı Anlat', 'Zeroday Marketi Detaylı Anlat', 'Bildiğin programlama dilleri neler', 'Nasıl İletişime Geçebilirim', 4,
         'aaa', 'aab', 'aac', 'aad'],
     aaa: [['Kızıl Pençe Tim Forumumuza Ulaşmak İçin Şu Urlyi Ziyaret Edebilirsiniz', "kizilpence.com"],
-
-        'p1', 'p1', 'p1', 'p1', [7], [
+          
         function () {
             setTimeout(function () {
                 document.getElementById("dialogueBox").style.fontSize = "20px";
