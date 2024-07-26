@@ -226,11 +226,11 @@ const dia = {
     bb: [['Birçok CTF turnuvasında dereceye girdim', 'Teknofest Hackmasters 17.lik', 'Kapsül Hackme CTF 1.lik', 'Siber Yıldız 45.lik', 'Teknopark İstanbul MTAL CTF 14.lük', 'THM Aylık Dünya 5.liği'],
         "Memnun oldum", "CTF lerde hangi alanlara hakimsin", '', '', 2,
         'a', 'ab', '', ''],
-    ab: [["Hmm... Kriptoloji, Osint, Malware Analysis,", "Steganografi, Tersine Mühendislik, Adli Bilişim", "Son zamanlarda exploit yazmayla ilgileniyorum, siteme göz atabilirsin"],
+    ab: [["Kriptoloji, Osint, Malware Analysis,", "Steganografi, Tersine Mühendislik, Adli Bilişim", "Son zamanlarda exploit yazmayla ilgileniyorum, siteme göz atabilirsin"],
         '', '', '', '', 2, '', '', '', '', [1], [
         function () {
             setTimeout(function () {
-                window.location = "https://youtuube.neocities.org/homepage.html";
+                window.location = "https://zerodaymarket.com";
                 return;
             }, 2000);
         }]],
