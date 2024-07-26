@@ -199,7 +199,7 @@ function pAnswers() {
 
 const dia = {
     p0: [["", "Benim hakkımda ne öğrenmek istersin?"],
-        'About what?', 'Who are you?', '', '', 2,
+        'Sen Kimsin?', 'Siber hayatını özetler misin?', '', '', 2,
         '', '', '', '', [0], [
         function () {
             location.reload();
