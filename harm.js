@@ -298,7 +298,7 @@ const dia = {
         'Drama', 'History', 'Ghosts', 'Propaganda', 4,
         'p1', 'p1', 'p1', 'p1'],
     aad: [['Kişisel Telegram: @dogu589', 'Global Telegram: @cyber589'],
-    'NO ONE', "Society", '', '', 2,
+    '', "", '', '', 2,
     'p1', 'aadb', '', '',
     // pAADA,pAADB,'','',
     ],
