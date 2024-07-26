@@ -198,7 +198,7 @@ function pAnswers() {
 //     p1, p1, p1, p1];
 
 const dia = {
-    p0: [["", "Would you like to hear it?"],
+    p0: [["", "Benim hakkımda ne öğrenmek istersin?"],
         'About what?', 'Who are you?', '', '', 2,
         '', '', '', '', [0], [
         function () {
