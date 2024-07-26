@@ -253,8 +253,7 @@ const dia = {
             return;
         }]],
     aab: [['ZerodayMarket 2023 yılından beri yürütmüş olduğum bir proje', 'İlk olarak sadece Türkiyeye özel olarak açıldı ve Exploit Market ismini aldı', 'Daha sonraları 2024 başı olmalı', 'Bu projeyi globale açmaya karar verdim', "Ve adını Zeroday Market olarak değiştirdim", "0day exploitlerine ve çeşitli yazılımlara odaklanıyor", "Kayıtlarımız Kontrollü", 'Telegramdan bana yazarak hesabınızı onaylatabilirsiniz'],
-        'Bad apples ruin the bunch', 'What should happen to the bullies?', '', '', 2,
-        'p1', 'aabb', '', '',
+        
     [4, 5, 6], [
         function () {
             mood = 1;
