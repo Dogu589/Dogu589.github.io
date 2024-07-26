@@ -221,7 +221,7 @@ const dia = {
         'Başarılarından bahseder misin', 'Bildiğin programlama dilleri?', '', '', 2,
         'aa', 'ab', '', ''],
     b: [['Web site hackleme işi hep ilgimi çekti ve birçok web sitesini hackledim', 'Ülkeme yapılan bütün siber saldırılara elimden geldiğince yanıt vermeye çalıştım', 'Uzun bir süre CTF konularıyla ilgilendim'],
-        'So what is your story about?', 'How can I learn anything from YOU?', '', '', 2,
+        'CTF lerde hangi alanlara hakimsin?', 'CTF başarılarından bahsedermisin?', '', '', 2,
         'a', 'bb', '', ''],
     bb: [['The way you learn most everything you know', 'A simple conversation'],
         "Ok, what's the story about?", "No thanks", '', '', 2,
