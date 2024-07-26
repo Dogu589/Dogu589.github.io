@@ -224,9 +224,9 @@ const dia = {
         'Memnun oldum', 'CTF başarılarından bahsedermisin?', '', '', 2,
         'a', 'bb', '', ''],
     bb: [['Birçok CTF turnuvasında dereceye girdim', 'Teknofest Hackmasters 17.lik', 'Kapsül Hackme CTF 1.lik', 'Siber Yıldız 45.lik', 'Teknopark İstanbul MTAL CTF 14.lük', 'THM Aylık Dünya 5.liği'],
-        "Memnun oldum", "CTF lerde en çok nelere hakimsin", '', '', 2,
+        "Memnun oldum", "Exploit marketinden bahseder misin", '', '', 2,
         'a', 'ab', '', ''],
-    ab: [["Kriptoloji, Osint, Web, Adli Bilişim", "Son zamanlarda exploit yazmayla ilgileniyorum, siteme göz atabilirsin"],
+    ab: [["Tabii..dünyanın en büyük 0day marketlerinden birine göz atıcaksın şimdi", "Son zamanlarda exploit yazmayla ilgileniyorum, siteme göz atabilirsin"],
         '', '', '', '', 2, '', '', '', '', [1], [
         function () {
             setTimeout(function () {
