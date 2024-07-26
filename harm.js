@@ -235,9 +235,9 @@ const dia = {
             }, 2000);
         }]],
     aa: [['Tabii.. şu anda aktif olarak yürüttüğüm iki projem var', 'ilki Kızıl Pençe Tim', 'ikincisi Zeroday Market', 'Kızıl Pençe Tim, Türkiyenin siber gücü olmaya odaklanmış bir gruptur', 'Ekip içinde zaman zaman operasyonlar düzenlenir', 'Zeroday Market ise Global çaplı bir 0day pazarıdır'],
-        'Kızıl Pençe Timi Detaylı Anlat', 'Zeroday Marketi Detaylı Anlat', 'Bildiğin programlama dilleri neler', 'NO ONE', 4,
+        'Kızıl Pençe Timi Detaylı Anlat', 'Zeroday Marketi Detaylı Anlat', 'Bildiğin programlama dilleri neler', 'Nasıl İletişime Geçebilirim', 4,
         'aaa', 'aab', 'aac', 'aad'],
-    aaa: [['Someone could live a completely happy life and still commit suicide', 'She suffered from depression', "but don't worry there's definintely hope for you", "Everything in the modern world can be fixed, even you", "Your pain and suffering can go away", "Don't give up on life there's hope, even for you", "Always look on the brightside", "she was a fat pig filled with hate and made everyone's life worse", "The bullies could learn from this"],
+    aaa: [['Kızıl Pençe Tim Forumumuza Ulaşmak İçin Şu Urlyi Ziyaret Edebilirsiniz', "kizilpence.com"],
         "They won't", 'I feel for the girl', "You DON'T blame her parents?", 'Why do you bring this up?', 4,
         // pAAAA,pAAAB,pAAAC,pAAAD,
         'p1', 'p1', 'p1', 'p1', [7], [
