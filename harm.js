@@ -191,7 +191,7 @@ function pAnswers() {
 // let p0, p1, pA, pB, pAA, pAB, pBB, pC, pD, pAC, pAD, pAAB, pAAA, pAAC, pAAD, pAAAB, pAABB, pAABBB, pAABBBC, pAAAC, pAAAD, pAABA, pAABC, pAABD, pAACA, pAACB, pAACC, pAACD, pAADB, pAAAA, pAADBB, pAADBA;
 
 // pAABBB = [['A dishonest one, I see', 'who do you think is responsible for her death?'],
-//     'Her parents', 'The bullies', 'The girl', 'NO ONE', 4,
+//     'Zeroday Marketi Detaylı Anlat', 'Kızıl Pençeyi Detaylı Anlat', 4,
 //     pAAA, pAAB, pAABBBC, pAAD]
 // pAABBBC = [['You doubt that I am an intelligent entity?', 'Maybe you are a bully', 'The only way for you to have fun is to break things', 'You are a hyena', 'Chuckling at yourself at picking apart a dead creature', 'Get out of here'],
 //     '', '', '', '', 0,
