@@ -22,7 +22,7 @@ document.addEventListener('mousemove', (e) => {
 //Talking Animation
 var i = 0;
 var l = 0;
-var txt = "Hello, I have a story I'd like to talk about"; /* The text */
+var txt = "Merhaba, ben Doğu589 veya globaldeki adımla Cyber589"; /* The text */
 var speed = 66; /* The speed/duration of the effect in milliseconds */
 var talking = false;
 var idle = false;
