@@ -326,7 +326,7 @@ const dia = {
     'p1', 'p1', 'p1', 'p1']
 }
 
-var tracker = [["Hello, I have a story I'd like to talk about", "Would you like to hear it?"],
+var tracker = [["Hello, I have a story I'd like to talk about", "Benim hakkımda ne bilmek istersin?"],
     'About what?', 'Who are you?', '', '', 2,
     'a', 'b', '', ''];
 
