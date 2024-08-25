@@ -22,7 +22,7 @@ document.addEventListener('mousemove', (e) => {
 //Talking Animation
 var i = 0;
 var l = 0;
-var txt = "Merhaba, ben Doğu589 veya globaldeki adımla Cyber589"; /* The text */
+var txt = "Merhaba, ben Doğu589"; /* The text */
 var speed = 66; /* The speed/duration of the effect in milliseconds */
 var talking = false;
 var idle = false;
@@ -297,7 +297,7 @@ const dia = {
     aacab: [['Stories are powerful tools', 'Tools that captivate our minds', 'We take stories for granted', 'We assume they have existed since the start of time', 'But really they are new', 'And not only that, they arenâ€™t living', 'breathing', 'alive', 'or dead', 'They barely exist', 'They are close to a form of entity though', 'They wrangle dreams', 'feelings', 'people', 'armies and nations', 'They are a tool for birth and death', 'Look at me, I am a story', 'The interesting part is that you are a story too', 'and so is the girl who died at her own hands', 'What do stories make you think of?'],
         'Drama', 'History', 'Ghosts', 'Propaganda', 4,
         'p1', 'p1', 'p1', 'p1'],
-    aad: [['Kişisel Telegram: @dogu589', 'Global Telegram: @cyber589'],
+    aad: [['Telegram: @dogu589'],
     
     'p1', 'aadb', '', '',
     // pAADA,pAADB,'','',
