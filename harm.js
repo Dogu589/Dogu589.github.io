@@ -217,7 +217,7 @@ const dia = {
         }, 500);
     }
     ]],
-    a: ['Ben Doğukan 17 yaşındayım ve yaklaşık 4 yıldır siber güvenlik ve hackingle ilgileniyorum',
+    a: ['Ben Doğukan 18 yaşındayım ve yaklaşık 4 yıldır siber güvenlik ve hackingle ilgileniyorum',
         'Projelerinden bahseder misin', 'Web sitelerine bakabilirmiyim?', '', '', 2,
         'aa', 'ab', '', ''],
     b: [['Web site hackleme işi hep ilgimi çekti ve birçok web sitesini hackledim', 'Ülkeme yapılan bütün siber saldırılara elimden geldiğince yanıt vermeye çalıştım', 'Uzun bir süre CTF konularıyla ilgilendim'],
@@ -230,7 +230,7 @@ const dia = {
         '', '', '', '', 2, '', '', '', '', [1], [
         function () {
             setTimeout(function () {
-                window.location = "https://zerodaymarket.com";
+                window.location = "https://github.com/Dogu589";
                 return;
             }, 2000);
         }]],
